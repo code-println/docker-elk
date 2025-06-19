@@ -21,10 +21,7 @@ Other available stack variants:
   and Fleet
 
 > [!IMPORTANT]
-> [Platinum][subscriptions] features are enabled by default for a [trial][license-mngmt] duration of **30 days**. After
-> this evaluation period, you will retain access to all the free features included in the Open Basic license seamlessly,
-> without manual intervention required, and without losing any data. Refer to the [How to disable paid
-> features](#how-to-disable-paid-features) section to opt out of this behaviour.
+> [Basic][subscriptions] features are enabled by default.
 
 ---
 
